@@ -8,7 +8,7 @@
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chelaramanipratham@gmail.com)](mailto:chelaramanipratham@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pankil-doshi-1705561a1/)](www.linkedin.com/in/pratham-chelaramani-a44283227)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/prathamchelaramani)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/pankil_doshi/)](https://www.instagram.com/___prathammmm___)
+
 
 # Profiles:
 [![LeetCode](https://img.shields.io/badge/leetcode%20-black?style=flat&logo=leetcode)](https://leetcode.com/u/chelaramanipratham/)
