@@ -1,5 +1,5 @@
 # Hi, I'm Pratham Chelaramani! Glad to see you.
-💬 Ask me about Python, DSA, Google Cloud and Data Science.
+💬 Ask me about Python, DSA, Google Cloud and System Design.
 
 
 [![Visitors](https://visitcount.itsvg.in/api?id=PrathamChelaramani&icon=2&color=0&style=flat)](https://visitcount.itsvg.in)
