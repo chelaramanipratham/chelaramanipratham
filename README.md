@@ -1,5 +1,5 @@
 # Hi, I'm Pratham Chelaramani! Glad to see you.
-I am currently pursuing Bachelor of Technology(Btech) in Computer Engineering from [Birla Vishvakarma Mahavidyalaya](https://www.bvmengineering.ac.in/) and I have recently completed my Diploma in Computer Engineering from [Government Polytechnic, Ahmedabad](http://www.gpahmedabad.ac.in/). I am eager to apply my academic background and skills in the field of computer engineering to new opportunities.
+<h8>I am currently pursuing Bachelor of Technology(Btech) in Computer Engineering from [Birla Vishvakarma Mahavidyalaya](https://www.bvmengineering.ac.in/) and I have recently completed my Diploma in Computer Engineering from [Government Polytechnic, Ahmedabad](http://www.gpahmedabad.ac.in/). I am eager to apply my academic background and skills in the field of computer engineering to new opportunities.</h8>
 
 
 [![Visitors](https://visitcount.itsvg.in/api?id=PrathamChelaramani&icon=2&color=0&style=flat)](https://visitcount.itsvg.in)
