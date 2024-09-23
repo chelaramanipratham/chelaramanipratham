@@ -8,10 +8,7 @@
 
 ## Connect with me:
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chelaramanipratham@gmail.com)](mailto:chelaramanipratham@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pankil-doshi-1705561a1/)](www.linkedin.com/in/pratham-chelaramani-a44283227)
-
-
-# Profiles:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham-chelaramani-a44283227)
 [![LeetCode](https://img.shields.io/badge/leetcode%20-black?style=flat&logo=leetcode)](https://leetcode.com/u/chelaramanipratham/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks%20-green?style=flat&logo=GeeksforGeeks)](https://www.geeksforgeeks.org/user/chelaramanipratham/)
 [![Codechef](https://img.shields.io/badge/Codechef%20-red?style=flat&logo=Codechef)](https://www.codechef.com/users/prathammmm/)
