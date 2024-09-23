@@ -8,7 +8,7 @@
 
 ## Connect with me:
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chelaramanipratham@gmail.com)](mailto:chelaramanipratham@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratham-chelaramani-a44283227/)](www.linkedin.com/in/pratham-chelaramani-a44283227)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pankil-doshi-1705561a1/)](www.linkedin.com/in/pratham-chelaramani-a44283227)
 
 
 # Profiles:
